@@ -23,3 +23,5 @@ def test_post_view(client):
 
 #     response = json.loads(response.content)
 #     assert response.content == 'Hello World'
+
+# teste
